@@ -26,23 +26,7 @@ body {
     align-items: center;
     z-index: 100;
     border-radius: 100px;
-/* }@media only screen and (max-width: 768px) {
-  /* Phone ke liye design */
 }
-/* @media only screen and (min-width: 769px) { */
-  /* Laptop ke liye design */
-/* }@media only screen and (max-width: 768px) { */
-  /* Phone ke liye design */
-/* } */
-/* @media only screen and (min-width: 769px) { */
-  /* Laptop ke liye design */
-/* } */
-
-/* .grid {
-  display: grid;
-  grid-template-columns: repeat(12, 1fr);
-  grid-gap: 10px;
-} */ */
 
 img {
   max-width: 100%;
